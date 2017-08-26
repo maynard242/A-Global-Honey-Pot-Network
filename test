@@ -1,0 +1,17 @@
+hpfeed = {
+"_id" : "59673e953167c67ef223f2a8",
+"ident" : "4968a73e-67ae-11e7-9428-0654b098fe83",
+"timestamp" : "2017-07-13T09:34:12.999Z",
+"normalized" : "true",
+"payload" : {
+             "local_host" : "169.50.175.2",
+             "connection_type" : "reject",
+             "connection_protocol" : "pcap",
+             "remote_port" : 60111,
+            "local_port" : 23,
+            "remote_hostname" : "",
+             "connection_transport" : "tcp",
+             "remote_host" : "177.40.229.135"
+     },
+     "channel" : "dionaea.connections"
+ }
